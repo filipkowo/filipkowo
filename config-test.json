@@ -1,0 +1,37 @@
+{
+  "prezenty": [
+    {
+      "id": "test-prezent-1",
+      "od": "2026-11-23",
+      "do": "2026-12-31",
+      "tytul": "Prezent testowy!",
+      "tekst": "To tylko test okienka z prezentem.\nWidzisz go tylko Ty (tryb admina).",
+      "gwiazdki": 50,
+      "paczka": "turbo"
+    }
+  ],
+  "sklep": [
+    {
+      "paczka": "turbo",
+      "od": "2026-11-23",
+      "do": "2026-12-31 20:00",
+      "cena": 150,
+      "napis": "Paczka testowa"
+    }
+  ],
+  "ogloszenia": [
+    {
+      "id": "test-ogloszenie-1",
+      "tytul": "Ogłoszenie testowe",
+      "tekst": "Tak wygląda ogłoszenie bez nagrody."
+    }
+  ],
+  "bonus": [
+    {
+      "od": "2026-11-23",
+      "do": "2026-12-31",
+      "razy": 2,
+      "napis": "Test: podwójne gwiazdki!"
+    }
+  ]
+}
