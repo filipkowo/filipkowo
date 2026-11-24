@@ -1,5 +1,15 @@
 {
-  "prezenty": [],
+  "prezenty": [
+    {
+      "id": "dzieki-testerzy-2026",
+      "od": "2026-11-24",
+      "do": "2026-12-31",
+      "tytul": "Dziękujemy za testy!",
+      "tekst": "Dzięki, że testujesz Filipkowo!\nW prezencie masz 5 turbo paczek kart.",
+      "paczka": "turbo",
+      "ile": 5
+    }
+  ],
   "sklep": [],
   "ogloszenia": [],
   "bonus": []
